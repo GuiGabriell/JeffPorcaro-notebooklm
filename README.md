@@ -1,6 +1,6 @@
 # Jeff Porcaro: O Mestre do Groove e do Tempo
 
-![ImagemJeffPorcaro](https://pepsico-my.sharepoint.com/:f:/r/personal/guilherme_marquesgabriel_pepsico_com/Documents/Imagens?csf=1&web=1&e=ZDDHCA)
+![ImagemJeffPorcaro](jeff.jpg)
 
 Este repositório é dedicado à vida, obra, metodologias e ao legado de **Jeffrey Thomas Porcaro** (1 de abril de 1954 – 5 de agosto de 1992), um dos bateristas de estúdio mais gravados, influentes e respeitados da história da música contemporânea. 
 
