@@ -1,5 +1,7 @@
 # Jeff Porcaro: O Mestre do Groove e do Tempo
 
+!ImagemJeffPorcaro(jeff.jpeg)
+
 Este repositório é dedicado à vida, obra, metodologias e ao legado de **Jeffrey Thomas Porcaro** (1 de abril de 1954 – 5 de agosto de 1992), um dos bateristas de estúdio mais gravados, influentes e respeitados da história da música contemporânea. 
 
 Mais conhecido como membro fundador da banda de rock **Toto**, Porcaro foi o arquiteto de grooves que definiram eras, combinando uma precisão matemática com um "feeling" profundamente humano e swingado.
